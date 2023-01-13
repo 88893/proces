@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/wooden-plank-textured-background-material_53876-31378.jpg?w=2000&t=st=1671181355~exp=1671181955~hmac=be7d892673a95cc4e413be61bb812698faa0330db9966a9953c76be17fea8055) ;
+    background-repeat:no-repeat ;
+    background-size: 3000px;
+   
+}
+
+.donerbox{
+    width: 700px;
+    height: 650px;
+    margin-left: 200px; 
+    
+}
+
+.Titel{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 130px;
+    margin-left: 450px; 
+    font-size: 40px;
+    color: #e3b171;
+}
+
+.Button{
+   float: right;
+   width: 800px;
+   height: 500px;
+   margin-top: 50px;
+   margin-left: 50px;
+   color: #598b14;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   background-color: #f8b27c;
+}
+.container{
+display: flex;
+}
+
+.Button:hover{
+    background-color: #598b14;
+    color: #f8b27c;
+}
+
